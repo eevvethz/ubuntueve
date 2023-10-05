@@ -1,2 +1,3 @@
 # ubuntueve
- d
+ hacks
+ #  Script para a automatizar a instalação de programas necessários no uso do ubuntu para pentesting  Shell script simples para automatizar a instalação das aplicações para o uso de Hacker ético. Espero que este código ajude você, Muito cuidado ao usar as aplicações que você instalará!  Não me responsabilizo pelo uso indevido das aplicações aqui instaladas!  Instalação: `  O comando acima é usado para você dar as permissões necessárias ao bom funcionamento do ubuntu. Basta permitir que o aplicativo tenha acesso aos arquivos!  `  Você precisa apenas selecionar a primeira opção ao apertar ENTER DUAS VEZES.  * `apt install git`  * `git clone https://github.com/eevvethz/ubuntueve`  * `cd ubuntueve`  * `chmod +x install.sh`  * `bash install.sh`  ou  * `./install.sh`
